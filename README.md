@@ -2,7 +2,7 @@
 
 The SOR ("Standard OTDR Record") data format is used to store OTDR 
 ([optical time-domain
-reflectometer](http://https://en.wikipedia.org/wiki/Optical_time-domain_reflectometer)
+reflectometer](https://en.wikipedia.org/wiki/Optical_time-domain_reflectometer)
 ) fiber data.  The format is defined by the Telcordia [SR-4731, issue
 2](http://telecom-info.telcordia.com/site-cgi/ido/docs.cgi?ID=SEARCH&DOCUMENT=SR-4731&)
 standard.  While it is a standard, it is unfortunately not open, in
