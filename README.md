@@ -28,7 +28,7 @@ table of contents on the Telcordia [SR-4731, issue
 2](http://telecom-info.telcordia.com/site-cgi/ido/docs.cgi?ID=SEARCH&DOCUMENT=SR-4731&)
 page provides several clues, as does the Wikipedia page on [optical
 time-domain
-reflectometer](http://https://en.wikipedia.org/wiki/Optical_time-domain_reflectometer).
+reflectometer](https://en.wikipedia.org/wiki/Optical_time-domain_reflectometer).
 
 
 Using a binary-file editor/viewer and comparing the outputs from
